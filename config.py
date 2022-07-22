@@ -1,0 +1,1 @@
+csv_path = "https://raw.githubusercontent.com/ThuwarakeshM/geting-started-with-plottly-dash/main/life_expectancy.csv"
